@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Blog Preview Card](https://your-live-site-url.com)
+- Live Site URL: [Blog Preview Card](https://5h-am.github.io/blog_preview_card/)
 
 ## My process
 
