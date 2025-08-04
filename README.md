@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Project Screenshot](https://github.com/5h-am/blog_preview_card/blob/main/project_screenshort.png?raw=true)
 
 ### Links
 
